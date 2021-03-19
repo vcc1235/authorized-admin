@@ -1,0 +1,12 @@
+D:\Project\Java\authorized\src\main\java\com\xct\auth\entity\Permission.java
+D:\Project\Java\authorized\src\main\java\com\xct\auth\mapper\PermissionMapper.java
+D:\Project\Java\authorized\src\main\java\com\xct\auth\service\impl\PageServiceImpl.java
+D:\Project\Java\authorized\src\main\java\com\xct\auth\service\IPageService.java
+D:\Project\Java\authorized\src\main\java\com\xct\auth\generator\CommentGenerator.java
+D:\Project\Java\authorized\src\main\java\com\xct\auth\entity\Page.java
+D:\Project\Java\authorized\src\main\java\com\xct\auth\autoconfigure\AuthorizedAutoConfiguration.java
+D:\Project\Java\authorized\src\main\java\com\xct\auth\mapper\PageMapper.java
+D:\Project\Java\authorized\src\main\java\com\xct\auth\entity\PageExample.java
+D:\Project\Java\authorized\src\main\java\com\xct\auth\entity\PermissionExample.java
+D:\Project\Java\authorized\src\main\java\com\xct\auth\annotation\AuthCheck.java
+D:\Project\Java\authorized\src\main\java\com\xct\auth\generator\Generator.java
